@@ -261,8 +261,8 @@
     }
   },
   "fetch_metadata": {
-    "last_fetch_completed": "2025-10-16T18:05:42.191595",
-    "fetch_duration_seconds": 25.444538,
+    "last_fetch_completed": "2025-10-16T21:04:20.163975",
+    "fetch_duration_seconds": 22.761154,
     "total_pages_discovered": 42,
     "pages_fetched_successfully": 43,
     "pages_failed": 0,
@@ -272,7 +272,7 @@
     "total_files": 43,
     "fetch_tool_version": "3.0"
   },
-  "last_updated": "2025-10-16T18:05:42.191615",
+  "last_updated": "2025-10-16T21:04:20.164004",
   "base_url": "https://raw.githubusercontent.com/mrhillsman/claude-code-docs/main/docs/",
   "github_repository": "mrhillsman/claude-code-docs",
   "github_ref": "main",
